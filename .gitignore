@@ -1,6 +1,6 @@
 # Now ignore all files with .jpg extensions
 *.jpg
 
-# ignore receipts folder
-receipts/
+# ignore plots folder
+receipts/plots
 
